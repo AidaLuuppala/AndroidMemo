@@ -1,0 +1,2 @@
+# AndroidMemo
+Android-ohjelmoinnin harjoitustehtävä.
