@@ -1,2 +1,1 @@
-# AndroidMemo
-Android-ohjelmoinnin harjoitustehtävä.
+# native-mobile-app-android-sqlite
